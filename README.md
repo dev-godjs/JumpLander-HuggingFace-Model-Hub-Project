@@ -57,7 +57,10 @@ The project is currently under a **proprietary license**.
 A suitable open-source license will be provided upon public release.
 
 ---
+## Contributors
+[![Username](https://github.com/osodyssey.png?size=200)](https://github.com/osodyssey)
 
+---
 ## 🤝 Contributions
 Contributions will open after the first public preview release.  
 Until then, issues and suggestions are welcome.
