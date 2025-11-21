@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="kkk" src="https://github.com/user-attachments/assets/4fd6b324-dd83-47fa-8366-5f51433605e4" />
+<img width="1536" height="1024" alt="jumplander pandel ai llm model" src="https://github.com/user-attachments/assets/4fd6b324-dd83-47fa-8366-5f51433605e4" />
 
 # JumpLander Coder 32B – Private Hugging Face Model (Development Preview)
 
